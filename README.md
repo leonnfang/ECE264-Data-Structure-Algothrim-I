@@ -1,2 +1,2 @@
 # DSA1
-This program implement Satck and Queue by LinkedLisy in C++
+This class implement Satck and Queue by LinkedLisy in C++ and sort a mixed files in as fast as possible
